@@ -22,7 +22,7 @@ app-ads.txt uses the supplied AdMob publisher ID. AdMob looks for this file at t
 
 ## Assets and content
 
-icon.png and assets/river.webp reuse the game's own artwork. assets/puzzle.webp is an actual English gameplay screenshot. Images are local and optimized. Privacy and support text are based on the current app implementation, including locally saved progress, Google AdMob/UMP, and the one-time ad-free purchase with unlimited hints. Recheck these pages when app behavior or SDK data practices change.
+icon.png and assets/river.webp reuse the game's own artwork. assets/puzzle.webp is an actual English gameplay screenshot. Images are local and optimized. Privacy and support text are based on the current app implementation, including 48 levels across six chapters, lettered sluices and switches, local saves and iCloud sync of completions/best moves/hint credits, Google AdMob/UMP, and the one-time ad-free purchase with unlimited hints. The unfinished board and active hint overlay remain local. assets/sluices.webp is an actual simulator capture of level 25 with sluice A open. Recheck these pages when app behavior or SDK data practices change.
 
 ## Verification
 
